@@ -12,12 +12,30 @@
     </header>
 
     <nav>
-        <ul style="padding: 0; list-style: none; text-align: center;">
-            <li style="display: inline; margin-right: 10px;"><a href="#about">About</a></li>
-            <li style="display: inline; margin-right: 10px;"><a href="#reading">Reading</a></li>
-            <li style="display: inline; margin-right: 10px;"><a href="#projects">Project Ideas</a></li>
-            <li style="display: inline; margin-right: 10px;"><a href="#research">Research</a></li>
-            <li style="display: inline; margin-right: 10px;"><a href="#contact">Contact</a></li>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li>
+                <details>
+                    <summary>Reading</summary>
+                    <ul>
+                        <li><a href="#book1">Book 1</a></li>
+                        <li><a href="#book2">Book 2</a></li>
+                        <li><a href="#book3">Book 3</a></li>
+                    </ul>
+                </details>
+            </li>
+            <li>
+                <details>
+                    <summary>Project Ideas</summary>
+                    <ul>
+                        <li><a href="#idea1">Idea 1</a></li>
+                        <li><a href="#idea2">Idea 2</a></li>
+                        <li><a href="#idea3">Idea 3</a></li>
+                    </ul>
+                </details>
+            </li>
+            <li><a href="#research">Research</a></li>
+            <li><a href="#contact">Contact</a></li>
         </ul>
     </nav>
 
@@ -49,13 +67,5 @@
     <footer>
         <p>© 2024 John Doe. All rights reserved.</p>
     </footer>
-
-    <div style="text-align: center; margin-top: 20px;">
-        <button onclick="location.href='#about'">About</button>
-        <button onclick="location.href='#reading'">Reading</button>
-        <button onclick="location.href='#projects'">Project Ideas</button>
-        <button onclick="location.href='#research'">Research</button>
-        <button onclick="location.href='#contact'">Contact</button>
-    </div>
 </body>
 </html>
