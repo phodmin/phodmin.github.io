@@ -19,3 +19,8 @@ Envisioned structure:
     /images
         /profile.jpg          # Professional profile image, logos, etc.
         /other-graphics.png   # Other relevant graphics
+
+
+I want to include some referral codes:
+- Whisky shop
+https://thewhiskyshop.mention-me.com/m/ol/ui2fb-michal-karlubik
