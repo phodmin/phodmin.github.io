@@ -22,5 +22,7 @@ Envisioned structure:
 
 
 I want to include some referral codes:
+- Perplexity:
+https://perplexity.ai/pro?referral_code=OOCA75WA
 - Whisky shop
 https://thewhiskyshop.mention-me.com/m/ol/ui2fb-michal-karlubik
